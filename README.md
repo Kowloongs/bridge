@@ -1,3 +1,5 @@
-# bridge
+# Bridge
+
+Bridge - Extensible Firmware Interface
 
 
